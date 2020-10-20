@@ -4290,8 +4290,8 @@ object-assign@^4.0.1, object-assign@^4.1.0, object-assign@^4.1.1:
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
 
 object-path@^0.11.2:
-  version "0.11.4"
-  resolved "https://registry.yarnpkg.com/object-path/-/object-path-0.11.4.tgz#370ae752fbf37de3ea70a861c23bba8915691949"
+  version "0.11.5"
+  resolved "https://registry.yarnpkg.com/object-path/-/object-path-0.11.5.tgz#d4e3cf19601a5140a55a16ad712019a9c50b577a"
 
 object.defaults@^1.1.0:
   version "1.1.0"
@@ -5299,9 +5299,10 @@ react-router-dom@^4.1.1:
     prop-types "^15.5.4"
     react-router "^4.1.1"
 
-"react-router-scroll@github:ytase/react-router-scroll#build":
+react-router-scroll@ytase/react-router-scroll#build:
   version "0.4.1"
-  resolved "https://codeload.github.com/ytase/react-router-scroll/tar.gz/991ecddb08885e1fb80ec1e9dbf3a35844b7d4cd"
+  uid c95a900d58c70f4ae3852511cd9f517bc2ede39d
+  resolved "https://codeload.github.com/ytase/react-router-scroll/tar.gz/c95a900d58c70f4ae3852511cd9f517bc2ede39d"
   dependencies:
     scroll-behavior "^0.9.1"
     warning "^3.0.0"
